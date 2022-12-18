@@ -31,6 +31,15 @@ header {
     font-family: 'Lato', sans-serif;
   }
 
+.side-nav {
+    display: block;
+    align-items: center;
+    height: 100%;
+    padding: 0;
+    margin-top: 15px;
+    width: 0;
+    float:left;
+}
 
   main {
     display: grid;
